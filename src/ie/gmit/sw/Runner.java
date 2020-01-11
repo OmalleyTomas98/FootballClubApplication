@@ -8,7 +8,6 @@ public class Runner {
 	}
 }
 
-//IP ADDRESS 40.68.35.156
 
 
 
